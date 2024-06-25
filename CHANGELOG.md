@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-24)
+## Unreleased (2024-06-25)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`50d806d`](https://github.com/stdlib-js/stdlib/commit/50d806dd22dd25a6f6f2900bb5a8ccc0ed7ef232) - **test:** add missing test for `math/base/special/cotd` [(#2449)](https://github.com/stdlib-js/stdlib/pull/2449) _(by Gunj Joshi)_
 -   [`c9ab1f2`](https://github.com/stdlib-js/stdlib/commit/c9ab1f2313cac54672d24e82665a13ff37b79a93) - **feat:** add C implementation for `math/base/special/cotd` [(##2443)](#2443) _(by Gunj Joshi)_
 
 </details>
