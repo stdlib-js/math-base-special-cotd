@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cotd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cotd@esm/index.mjs';
+import cotd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cotd@v0.2.0-esm/index.mjs';
 ```
 
 #### cotd( x )
@@ -84,7 +84,7 @@ v = cotd( NaN );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import cotd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cotd@esm/index.mjs';
+import cotd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cotd@v0.2.0-esm/index.mjs';
 
 var x = linspace( -180, 180, 100 );
 
