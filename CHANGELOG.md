@@ -2,15 +2,15 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.0">
 
-## Unreleased (2024-06-30)
+## 0.2.0 (2024-07-28)
 
 <section class="features">
 
 ### Features
 
--   [`c9ab1f2`](https://github.com/stdlib-js/stdlib/commit/c9ab1f2313cac54672d24e82665a13ff37b79a93) - add C implementation for `math/base/special/cotd` [(##2443)](#2443)
+-   [`c9ab1f2`](https://github.com/stdlib-js/stdlib/commit/c9ab1f2313cac54672d24e82665a13ff37b79a93) - add C implementation for `math/base/special/cotd` [(#2443)](https://github.com/stdlib-js/stdlib/pull/2443)
 
 </section>
 
@@ -22,9 +22,11 @@
 
 <details>
 
--   [`2f62c39`](https://github.com/stdlib-js/stdlib/commit/2f62c39e03c5445f3cc3b91226453c2eed366013) - **chore:** update package meta data [(##2481)](#2481) _(by stdlib-bot)_
+-   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
+-   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
+-   [`2f62c39`](https://github.com/stdlib-js/stdlib/commit/2f62c39e03c5445f3cc3b91226453c2eed366013) - **chore:** update package meta data [(#2481)](https://github.com/stdlib-js/stdlib/pull/2481) _(by stdlib-bot)_
 -   [`50d806d`](https://github.com/stdlib-js/stdlib/commit/50d806dd22dd25a6f6f2900bb5a8ccc0ed7ef232) - **test:** add missing test for `math/base/special/cotd` [(#2449)](https://github.com/stdlib-js/stdlib/pull/2449) _(by Gunj Joshi)_
--   [`c9ab1f2`](https://github.com/stdlib-js/stdlib/commit/c9ab1f2313cac54672d24e82665a13ff37b79a93) - **feat:** add C implementation for `math/base/special/cotd` [(##2443)](#2443) _(by Gunj Joshi)_
+-   [`c9ab1f2`](https://github.com/stdlib-js/stdlib/commit/c9ab1f2313cac54672d24e82665a13ff37b79a93) - **feat:** add C implementation for `math/base/special/cotd` [(#2443)](https://github.com/stdlib-js/stdlib/pull/2443) _(by Gunj Joshi)_
 
 </details>
 
@@ -36,8 +38,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gunj Joshi
 
 </section>
