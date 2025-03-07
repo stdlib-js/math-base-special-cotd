@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-02)
+## Unreleased (2025-03-07)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`75941b9`](https://github.com/stdlib-js/stdlib/commit/75941b94bd2713c857146756596925bb4299af6e) - update `math/base/special/cotd` to match correct reference implementation [(#5813)](https://github.com/stdlib-js/stdlib/pull/5813)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`75941b9`](https://github.com/stdlib-js/stdlib/commit/75941b94bd2713c857146756596925bb4299af6e) - **fix:** update `math/base/special/cotd` to match correct reference implementation [(#5813)](https://github.com/stdlib-js/stdlib/pull/5813) _(by Karan Anand)_
 -   [`bf5643f`](https://github.com/stdlib-js/stdlib/commit/bf5643fb1a3f32a60903d8e210f71571e609119f) - **docs:** update related packages sections [(#3404)](https://github.com/stdlib-js/stdlib/pull/3404) _(by stdlib-bot)_
 -   [`b89c97c`](https://github.com/stdlib-js/stdlib/commit/b89c97ce0b812ff0b2aab16b4d77969d44fe3e8c) - **docs:** resolve lint errors in TS declaration files _(by Philipp Burckhardt)_
 -   [`ed44fee`](https://github.com/stdlib-js/stdlib/commit/ed44feecb9eaa5e0849d1a533e5415624d0aa338) - **style:** use imperative in package.json description and end with period _(by Philipp Burckhardt)_
@@ -26,8 +37,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
